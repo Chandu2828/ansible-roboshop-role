@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.pcks.online
+USER_HOST: user.pcks.online
+SHIPPING_HOST: shipping.pcks.online
+CART_HOST: cart.pcks.online
+PAYMENT_HOST: payment.pcks.online
